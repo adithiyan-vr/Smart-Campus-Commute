@@ -1,0 +1,24 @@
+{
+  "name": "campus-commute-prototype-2",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5174",
+    "build": "vite build",
+    "preview": "vite preview --port 5174"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.16.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.11",
+    "vite": "^5.4.3"
+  }
+}
