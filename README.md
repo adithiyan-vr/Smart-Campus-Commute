@@ -122,7 +122,3 @@ npm run dev
 ## 🙌 Built With
 
 A team project built during the **ODESSA** hackathon, under the **Smart Mobility & Transportation** domain.
-
-## 📄 License
-
-Add a license of your choice (e.g. MIT) before making this repository public.
